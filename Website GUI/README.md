@@ -7,7 +7,7 @@ This gives 2 deployment options:
 
 Clone repo and create a virtual environment
 ```
-$ git clone 
+$ git clone https://github.com/MeghashyamAVV/Personalized-Financial-Advice-using-NLP.git
 $ cd Website GUI
 $ python3 -m venv venv
 $ . venv/bin/activate
